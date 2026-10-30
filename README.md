@@ -19,6 +19,16 @@ Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (
 
 Python | HTML5 | CSS3 | SQL
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode" />
+</p>
+
+<h3>Data & Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 <h2>Education | Formação</h2>
 
 B.Sc. in Computer Science / Bacharelado em Ciência da Computação
