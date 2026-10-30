@@ -18,7 +18,8 @@ Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (
 <h2>Technologies | Tecnologias</h2>
 
 Python | HTML5 | CSS3 | SQL
-
+<br><br>
+<h3>Programming & Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode" />
 </p>
