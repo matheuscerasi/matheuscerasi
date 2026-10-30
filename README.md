@@ -28,6 +28,7 @@ Universidade Cidade de São Paulo — UNICID
 <h2>Projects | Projetos</h2>
 
 I’m organizing my first projects here. Check my repositories for updates.
+<br>
 Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios para novidades.
 
 <!-- When you publish your projects, replace this section with links and brief descriptions. -->
