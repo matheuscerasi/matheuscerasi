@@ -41,9 +41,10 @@ Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios p
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=matheuscerasi&theme=default&hide_border=true)
 
+
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscerasi&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=matheuscerasi&layout=compact&theme=default&hide_border=true)
 
 
 </div>
