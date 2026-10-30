@@ -4,37 +4,35 @@ Computer Science Student | Exploring Software Development
 
 📍 São Paulo, Brazil · 🎓 UNICID · 💼 Open to Internship Opportunities
 
-LinkedIn
-Email
 
 </div>
 
 ────────
 
-About me | Sobre mim
+<h2>About me | Sobre mim</h2>
 
 EN — I’m an undergraduate Computer Science student at Universidade Cidade de São Paulo (UNICID), currently in my second semester. I’m exploring different areas of technology and building a foundation in web development and databases. I’m looking for an internship where I can learn from experienced professionals, collaborate on real projects, and continue growing as a developer.
 
 PT-BR — Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (UNICID), atualmente no segundo semestre. Estou explorando diferentes áreas da tecnologia e desenvolvendo conhecimentos em desenvolvimento web e bancos de dados. Busco uma oportunidade de estágio para aprender com profissionais experientes, colaborar em projetos reais e evoluir como desenvolvedor.
 
-Technologies | Tecnologias
+<h2>Technologies | Tecnologias</h2>
 
 HTML5 | CSS3 | SQL
 
-Education | Formação
+<h2>Education | Formação</h2>
 
 B.Sc. in Computer Science / Bacharelado em Ciência da Computação
 Universidade Cidade de São Paulo — UNICID
 2026–2029 (expected / previsão) · 2nd semester / 2º semestre
 
-Projects | Projetos
+<h2>Projects | Projetos</h2>
 
 I’m organizing my first projects here. Check my repositories for updates.
 Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios para novidades.
 
 <!-- When you publish your projects, replace this section with links and brief descriptions. -->
 
-GitHub stats | Estatísticas
+<h2>GitHub stats | Estatísticas</h2>
 
 <div align="center">
 
