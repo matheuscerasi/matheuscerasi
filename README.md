@@ -7,7 +7,7 @@ Computer Science Student | Exploring Software Development
 
 </div>
 
-────────
+<hr>
 
 <h2>About me | Sobre mim</h2>
 
