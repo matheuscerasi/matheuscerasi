@@ -48,11 +48,27 @@ Top languages
 
 Let’s connect | Vamos conversar
 
-• <a href="https://www.linkedin.com/in/matheus-cerasi-rodrigues-6b0b99319/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-• Email
-• GitHub
+
+<h2>Let's connect | Vamos conversar</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/matheus-cerasi-rodrigues-6b0b99319/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p>
+  <a href="mailto:matheuscerasi.1801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/matheuscerasi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
 
 ────────
 
