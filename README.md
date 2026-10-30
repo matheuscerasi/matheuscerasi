@@ -69,4 +69,4 @@ Top languages
 
 ────────
 
-<div align="center"><sub>Always learning, building and improving. · Sempre aprendendo, criando e evoluindo.</sub></div>
+<div align="center"><sub>·Always learning, building and improving.<br>·Sempre aprendendo, criando e evoluindo.</sub></div>
