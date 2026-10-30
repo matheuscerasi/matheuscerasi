@@ -28,11 +28,11 @@ Python | HTML5 | CSS3 | SQL
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-- SQL & Relational Databases
-- Microsoft Excel
-- ETL (Extract, Transform, Load)
-- Data Processing & Organization
-- Data Analysis
+- SQL & Relational Databases<br>
+- Microsoft Excel<br>
+- ETL (Extract, Transform, Load)<br>
+- Data Processing & Organization<br>
+- Data Analysis<br>
 
 <h2>Education | Formação</h2>
 
