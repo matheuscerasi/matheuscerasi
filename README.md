@@ -7,7 +7,7 @@ Computer Science Student | Exploring Software Development
 
 </div>
 
-<hr>
+────────
 
 <h2>About me | Sobre mim</h2>
 
@@ -66,7 +66,6 @@ Top languages
   </a>
 </p>
 
-
-────────
+<hr>
 
 <div align="center"><sub>·Always learning, building and improving.<br>·Sempre aprendendo, criando e evoluindo.</sub></div>
