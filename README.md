@@ -48,8 +48,7 @@ Top languages
 
 Let’s connect | Vamos conversar
 
-• LinkedIn
-<a href="https://www.linkedin.com/in/matheus-cerasi-rodrigues-6b0b99319/" target="_blank">
+• <a href="https://www.linkedin.com/in/matheus-cerasi-rodrigues-6b0b99319/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 • Email
