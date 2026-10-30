@@ -37,9 +37,6 @@ Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios p
 
 <div align="center">
 
-
-## 📊 GitHub Stats | Estatísticas
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscerasi&show_icons=true&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscerasi&layout=compact&theme=default&hide_border=true)
