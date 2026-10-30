@@ -74,4 +74,4 @@ Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios p
 </p>
 
 <hr>
-<div align="center"><sub>·Always learning, building and improving.<br>·Sempre aprendendo, criando e evoluindo.</sub></div>
+<div align="center"><sub>Always learning, building and improving.<br>Sempre aprendendo, criando e evoluindo.</sub></div>
