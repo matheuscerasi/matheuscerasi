@@ -19,9 +19,7 @@ PT-BR — Sou estudante de Ciência da Computação na Universidade Cidade de S�
 
 Technologies | Tecnologias
 
-HTML5
-CSS3
-SQL
+HTML5 | CSS3 | SQL
 
 Education | Formação
 
